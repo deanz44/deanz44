@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @deanz44
+- 👋 Hi, I’m Dean
 - 👀 I’m interested in programming and ethical hacking
-- 🌱 I’m currently learning to program
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning to program 
 - 📫 How to reach me whatsapp @ +27607412454
 
 <!---
